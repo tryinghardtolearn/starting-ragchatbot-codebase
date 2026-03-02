@@ -1,4 +1,3 @@
-# experiment for worktree: added for feat/health-endpoint
 import warnings
 warnings.filterwarnings("ignore", message="resource_tracker: There appear to be.*")
 
