@@ -1,4 +1,4 @@
-# added a health endpoint
+# added a health endpoint (addressing pr comment)
 import warnings
 warnings.filterwarnings("ignore", message="resource_tracker: There appear to be.*")
 
