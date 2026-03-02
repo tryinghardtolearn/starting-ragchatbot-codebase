@@ -32,6 +32,8 @@ app.add_middleware(
     expose_headers=["*"],
 )
 
+# another comment
+
 # Initialize RAG system
 rag_system = RAGSystem(config)
 
